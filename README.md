@@ -9,9 +9,6 @@
 <h3 align="left">🌱A novice game developer<br><br>📝 Now I am working on my first game called lightbringer</h3>
 
 ###
-
-<p align="left">Techs:</p>
-
 ###
 
 <br clear="both">
