@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm widastria</h1>
 <h3 align="center">A novice game developer</h3>
 
-🌱I am working on my first game called **lightbringer**
+<p align="center">🌱I am working on my first game called **lightbringer**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">📫 Discord: widastria
