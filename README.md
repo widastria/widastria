@@ -1,16 +1,12 @@
-<h1 align="left">💫 About Me:</h1>
-
-###
-
-<h3 align="left">🌱A novice game developer<br><br>📝 Now I am working on my first game called lightbringer</h3>
-
-###
-
 <br clear="both">
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=widastria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h3 align="left">🌱A trainee game developer<br><br>📝 Now I am working on my first game called lightbringer</h3>
 
 ###
 
@@ -37,9 +33,7 @@
 ###
 
 <div align="left">
-  <a href="widastria" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=widastria&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
 </div>
 
 ###
