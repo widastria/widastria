@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🌱A trainee game developer<br><br>📝 Now I am working on my first game called lightbringer</h3>
+<h3 align="left">🌱Game developer<br><br>📝 Now I am working on my first game called lightbringer</h3>
 
 ###
 
