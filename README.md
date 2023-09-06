@@ -21,12 +21,6 @@
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">💬Contact:</h3>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=widastria&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="discord logo"  />
 </div>
